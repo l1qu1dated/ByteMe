@@ -73,6 +73,11 @@ dependencies {
         transitive = true;
     }
 
+    //Firebase Invites
+
+    compile 'com.google.firebase:firebase-invites:10.2.0'
+
+
     androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
     androidTestCompile 'com.android.support.test:runner:0.5'
 }
