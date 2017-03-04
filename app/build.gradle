@@ -76,6 +76,7 @@ dependencies {
     //Firebase Invites
 
     compile 'com.google.firebase:firebase-invites:10.2.0'
+    compile 'com.android.support:design:25.0.1'
 
 
     androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
