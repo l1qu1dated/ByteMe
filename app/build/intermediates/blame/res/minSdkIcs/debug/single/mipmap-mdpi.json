@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/mipmap-mdpi/ic_forum_white.png",
+        "source": "/Users/carlosmo/Repository/ByteMe/app/src/main/res/mipmap-mdpi/ic_forum_white.png"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/carlosmo/Repository/ByteMe/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

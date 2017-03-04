@@ -1,0 +1,4 @@
+#Sat Mar 04 18:06:06 EST 2017
+base.0=/Users/carlosmo/Repository/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/Users/carlosmo/Repository/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/5/slice_1/classes.dex

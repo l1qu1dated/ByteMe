@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-v21/tw__like_action.xml",
+        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable-v21/tw__like_action.xml"
+    }
+]

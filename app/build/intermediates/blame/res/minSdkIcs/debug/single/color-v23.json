@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]

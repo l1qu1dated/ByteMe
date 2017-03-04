@@ -1,0 +1,7 @@
+#Sat Mar 04 18:06:06 EST 2017
+base.0=/Users/carlosmo/Repository/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/10000/instant-run_a4309c04ef3775994d10670e904a56f34e6429bf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/carlosmo/Repository/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/10000/instant-run-bootstrap_d63b17df9e046299e4dab7a7f1e4e656083cac06/classes.dex
+base.1=/Users/carlosmo/Repository/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/10000/instant-run-bootstrap_d63b17df9e046299e4dab7a7f1e4e656083cac06
+file.0=/Users/carlosmo/Repository/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/10000/instant-run_a4309c04ef3775994d10670e904a56f34e6429bf/classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
