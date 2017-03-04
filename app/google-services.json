@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313759222977",
+    "firebase_url": "https://byteme-56136.firebaseio.com",
+    "project_id": "byteme-56136",
+    "storage_bucket": "byteme-56136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313759222977:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313759222977-olcmprvqclmp6nrfg2afdubbdo4nh59o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "4d0436d74699a647a0ec0e92a568bb10f98d84a2"
+          }
+        },
+        {
+          "client_id": "313759222977-h5dte25r4dv209gkkge1jo2h0d025rdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAehIEjQvTv-dq4q8dnTW5F6FUTcIDNMqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313759222977-h5dte25r4dv209gkkge1jo2h0d025rdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
