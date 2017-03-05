@@ -8,9 +8,9 @@ package com.twitter.sdk.android.tweetcomposer;
 
 public final class R {
     public static final class attr {
-        public static final int tw__image_aspect_ratio = 0x7f010148;
-        public static final int tw__image_dimension_to_adjust = 0x7f010149;
-        public static final int tw__twitter_logo = 0x7f010006;
+        public static final int tw__image_aspect_ratio = 0x7f010174;
+        public static final int tw__image_dimension_to_adjust = 0x7f010175;
+        public static final int tw__twitter_logo = 0x7f010032;
     }
     public static final class color {
         public static final int tw__blue_default = 0x7f0d0059;
@@ -82,39 +82,39 @@ public final class R {
         public static final int tw__transparent = 0x7f0200ed;
     }
     public static final class id {
-        public static final int height = 0x7f0e0046;
-        public static final int imageView = 0x7f0e00cc;
-        public static final int tw__allow_btn = 0x7f0e00cf;
-        public static final int tw__app_image = 0x7f0e00d0;
-        public static final int tw__app_info_layout = 0x7f0e00d1;
-        public static final int tw__app_install_button = 0x7f0e00d2;
-        public static final int tw__app_name = 0x7f0e00d3;
-        public static final int tw__app_store_name = 0x7f0e00d4;
-        public static final int tw__author_avatar = 0x7f0e00d8;
-        public static final int tw__card_view = 0x7f0e00dc;
-        public static final int tw__char_count = 0x7f0e00df;
-        public static final int tw__composer_close = 0x7f0e00d6;
-        public static final int tw__composer_header = 0x7f0e00d5;
-        public static final int tw__composer_profile_divider = 0x7f0e00d9;
-        public static final int tw__composer_scroll_view = 0x7f0e00da;
-        public static final int tw__composer_toolbar = 0x7f0e00de;
-        public static final int tw__composer_toolbar_divider = 0x7f0e00dd;
-        public static final int tw__composer_view = 0x7f0e00c9;
-        public static final int tw__edit_tweet = 0x7f0e00db;
-        public static final int tw__not_now_btn = 0x7f0e00ce;
-        public static final int tw__post_tweet = 0x7f0e00e0;
-        public static final int tw__share_email_desc = 0x7f0e00cd;
-        public static final int tw__spinner = 0x7f0e00cb;
-        public static final int tw__twitter_logo = 0x7f0e00d7;
-        public static final int tw__web_view = 0x7f0e00ca;
-        public static final int width = 0x7f0e0047;
+        public static final int height = 0x7f0e004d;
+        public static final int imageView = 0x7f0e00d6;
+        public static final int tw__allow_btn = 0x7f0e00d9;
+        public static final int tw__app_image = 0x7f0e00da;
+        public static final int tw__app_info_layout = 0x7f0e00db;
+        public static final int tw__app_install_button = 0x7f0e00dc;
+        public static final int tw__app_name = 0x7f0e00dd;
+        public static final int tw__app_store_name = 0x7f0e00de;
+        public static final int tw__author_avatar = 0x7f0e00e2;
+        public static final int tw__card_view = 0x7f0e00e6;
+        public static final int tw__char_count = 0x7f0e00e9;
+        public static final int tw__composer_close = 0x7f0e00e0;
+        public static final int tw__composer_header = 0x7f0e00df;
+        public static final int tw__composer_profile_divider = 0x7f0e00e3;
+        public static final int tw__composer_scroll_view = 0x7f0e00e4;
+        public static final int tw__composer_toolbar = 0x7f0e00e8;
+        public static final int tw__composer_toolbar_divider = 0x7f0e00e7;
+        public static final int tw__composer_view = 0x7f0e00d3;
+        public static final int tw__edit_tweet = 0x7f0e00e5;
+        public static final int tw__not_now_btn = 0x7f0e00d8;
+        public static final int tw__post_tweet = 0x7f0e00ea;
+        public static final int tw__share_email_desc = 0x7f0e00d7;
+        public static final int tw__spinner = 0x7f0e00d5;
+        public static final int tw__twitter_logo = 0x7f0e00e1;
+        public static final int tw__web_view = 0x7f0e00d4;
+        public static final int width = 0x7f0e004e;
     }
     public static final class layout {
-        public static final int tw__activity_composer = 0x7f040047;
-        public static final int tw__activity_oauth = 0x7f040048;
-        public static final int tw__activity_share_email = 0x7f040049;
-        public static final int tw__app_card = 0x7f04004a;
-        public static final int tw__composer_view = 0x7f04004b;
+        public static final int tw__activity_composer = 0x7f040048;
+        public static final int tw__activity_oauth = 0x7f040049;
+        public static final int tw__activity_share_email = 0x7f04004a;
+        public static final int tw__app_card = 0x7f04004b;
+        public static final int tw__composer_view = 0x7f04004c;
     }
     public static final class raw {
         public static final int tw__cacerts = 0x7f060000;
@@ -155,7 +155,7 @@ public final class R {
         public static final int tw__Permission_Title = 0x7f0a01a5;
     }
     public static final class styleable {
-        public static final int[] tw__AspectRatioImageView = { 0x7f010148, 0x7f010149 };
+        public static final int[] tw__AspectRatioImageView = { 0x7f010174, 0x7f010175 };
         public static final int tw__AspectRatioImageView_tw__image_aspect_ratio = 0;
         public static final int tw__AspectRatioImageView_tw__image_dimension_to_adjust = 1;
     }

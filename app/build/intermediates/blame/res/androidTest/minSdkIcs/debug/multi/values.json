@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/incremental/mergeMinSdkIcsDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/incremental/mergeMinSdkIcsDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/carlosmo/.android/build-cache/55412212a58a912f2b91e00dd20e4b7087a553f6/output/res/values/values.xml",
+                    "file": "/Users/naperkovskiy/.android/build-cache/6b0c26f20a7c2017be0167d21bc1b1a53e9b4bcf/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

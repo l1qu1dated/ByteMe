@@ -1,338 +1,338 @@
 [
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_light_normal.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_default_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__login_btn_default_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__login_btn.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/progress_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/b5002e165072a64fb46389ca9cdca7c6f6c44d87/output/res/drawable/progress_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__login_btn_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_pressed.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__login_btn_pressed.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/design_fab_background.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__bg_media_badge.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__bg_media_badge.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__like_action.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__like_action.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_seekbar.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__video_seekbar.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_default.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__login_btn_default.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__app_info_layout_border.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/a71178f905c37296cee87b2049effd12cc56a0e0/output/res/drawable/tw__app_info_layout_border.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__app_info_layout_border.xml",
-        "source": "/Users/carlosmo/.android/build-cache/194c74046d41e9c1ffd6beff7b41f8dfddbeaf08/output/res/drawable/tw__app_info_layout_border.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__gif_badge.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__gif_badge.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__btn_composer_tweet.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/a71178f905c37296cee87b2049effd12cc56a0e0/output/res/drawable/tw__btn_composer_tweet.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_play_btn.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__video_play_btn.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__like_action.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__like_action.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/progress_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/281197fd24187c0540985f11f9f23cc0c06429bf/output/res/drawable/progress_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__bg_media_badge.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__bg_media_badge.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/drawable/navigation_empty_icon.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn_pressed.xml",
-        "source": "/Users/carlosmo/.android/build-cache/b5002e165072a64fb46389ca9cdca7c6f6c44d87/output/res/drawable/dgts__digits_btn_pressed.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__player_overlay.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__player_overlay.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/design_ic_visibility.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/drawable/design_ic_visibility.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/design_fab_background.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/drawable/design_fab_background.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__player_overlay.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__player_overlay.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_pressed.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__login_btn_pressed.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_text_color_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__login_btn_text_color_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__seekbar_thumb.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__seekbar_thumb.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__login_btn_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_default.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__login_btn_default.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn_pressed.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/281197fd24187c0540985f11f9f23cc0c06429bf/output/res/drawable/dgts__digits_btn_pressed.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/notification_bg_low.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_disabled.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__login_btn_disabled.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_pause_btn.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__video_pause_btn.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_bg.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/notification_bg.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_text_dark.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/drawable/design_bottom_navigation_item_background.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__seekbar_thumb.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__seekbar_thumb.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__install_button_border.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/a71178f905c37296cee87b2049effd12cc56a0e0/output/res/drawable/tw__install_button_border.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/drawable/design_snackbar_background.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_pressed_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__login_btn_pressed_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/progress_dark.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/281197fd24187c0540985f11f9f23cc0c06429bf/output/res/drawable/progress_dark.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn_default.xml",
-        "source": "/Users/carlosmo/.android/build-cache/b5002e165072a64fb46389ca9cdca7c6f6c44d87/output/res/drawable/dgts__digits_btn_default.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_replay_btn.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__video_replay_btn.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_pause_btn.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__video_pause_btn.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn_default.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/281197fd24187c0540985f11f9f23cc0c06429bf/output/res/drawable/dgts__digits_btn_default.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_disabled.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__gif_badge.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__gif_badge.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__transparent.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__transparent.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/drawable/design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn.xml",
-        "source": "/Users/carlosmo/.android/build-cache/b5002e165072a64fb46389ca9cdca7c6f6c44d87/output/res/drawable/dgts__digits_btn.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/progress_dark.xml",
-        "source": "/Users/carlosmo/.android/build-cache/b5002e165072a64fb46389ca9cdca7c6f6c44d87/output/res/drawable/progress_dark.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_replay_btn.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__video_replay_btn.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_icon_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__transparent.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__transparent.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_seekbar.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__video_seekbar.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_disabled.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/281197fd24187c0540985f11f9f23cc0c06429bf/output/res/drawable/dgts__digits_btn.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_default_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__login_btn_default_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_play_btn.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__video_play_btn.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_disabled.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__login_btn_disabled.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_vector_test.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_bg.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__login_btn.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/notification_tile_bg.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__share_action.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/47179c5c6a8544f5dd387206cf398ac95637e223/output/res/drawable/tw__share_action.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_text_color_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d7ccd79a613aca69d46ae29b1f36104db56ec411/output/res/drawable/tw__login_btn_text_color_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/notification_icon_background.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__share_action.xml",
-        "source": "/Users/carlosmo/.android/build-cache/d5ebc984ea767894e87d4a7d1c9f93fefc43a5e1/output/res/drawable/tw__share_action.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__btn_composer_tweet.xml",
-        "source": "/Users/carlosmo/.android/build-cache/194c74046d41e9c1ffd6beff7b41f8dfddbeaf08/output/res/drawable/tw__btn_composer_tweet.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__install_button_border.xml",
-        "source": "/Users/carlosmo/.android/build-cache/194c74046d41e9c1ffd6beff7b41f8dfddbeaf08/output/res/drawable/tw__install_button_border.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/Users/carlosmo/.android/build-cache/6397f7aa1ba977e47f31b8b725c45f0d5e7f6ac4/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/7b721bd124b88659eb1705a686a250600d7ef496/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_pressed_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/ff1969ed3b5c191e0195dd6324c401e67d7ba09a/output/res/drawable/tw__login_btn_pressed_light.xml"
     }
 ]

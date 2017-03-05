@@ -8,8 +8,8 @@ package com.twitter.sdk.android.core;
 
 public final class R {
     public static final class attr {
-        public static final int tw__image_aspect_ratio = 0x7f010148;
-        public static final int tw__image_dimension_to_adjust = 0x7f010149;
+        public static final int tw__image_aspect_ratio = 0x7f010174;
+        public static final int tw__image_dimension_to_adjust = 0x7f010175;
     }
     public static final class color {
         public static final int tw__blue_default = 0x7f0d0059;
@@ -48,18 +48,18 @@ public final class R {
         public static final int tw__transparent = 0x7f0200ed;
     }
     public static final class id {
-        public static final int height = 0x7f0e0046;
-        public static final int imageView = 0x7f0e00cc;
-        public static final int tw__allow_btn = 0x7f0e00cf;
-        public static final int tw__not_now_btn = 0x7f0e00ce;
-        public static final int tw__share_email_desc = 0x7f0e00cd;
-        public static final int tw__spinner = 0x7f0e00cb;
-        public static final int tw__web_view = 0x7f0e00ca;
-        public static final int width = 0x7f0e0047;
+        public static final int height = 0x7f0e004d;
+        public static final int imageView = 0x7f0e00d6;
+        public static final int tw__allow_btn = 0x7f0e00d9;
+        public static final int tw__not_now_btn = 0x7f0e00d8;
+        public static final int tw__share_email_desc = 0x7f0e00d7;
+        public static final int tw__spinner = 0x7f0e00d5;
+        public static final int tw__web_view = 0x7f0e00d4;
+        public static final int width = 0x7f0e004e;
     }
     public static final class layout {
-        public static final int tw__activity_oauth = 0x7f040048;
-        public static final int tw__activity_share_email = 0x7f040049;
+        public static final int tw__activity_oauth = 0x7f040049;
+        public static final int tw__activity_share_email = 0x7f04004a;
     }
     public static final class raw {
         public static final int tw__cacerts = 0x7f060000;
@@ -81,7 +81,7 @@ public final class R {
         public static final int tw__Permission_Title = 0x7f0a01a5;
     }
     public static final class styleable {
-        public static final int[] tw__AspectRatioImageView = { 0x7f010148, 0x7f010149 };
+        public static final int[] tw__AspectRatioImageView = { 0x7f010174, 0x7f010175 };
         public static final int tw__AspectRatioImageView_tw__image_aspect_ratio = 0;
         public static final int tw__AspectRatioImageView_tw__image_dimension_to_adjust = 1;
     }

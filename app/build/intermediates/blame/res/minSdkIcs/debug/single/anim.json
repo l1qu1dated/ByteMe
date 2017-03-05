@@ -1,66 +1,66 @@
 [
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_fade_in.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_fab_in.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim/design_fab_in.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_fab_in.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/anim/design_fab_in.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim/design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_fade_out.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_fab_out.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim/design_fab_out.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_fab_out.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_popup_enter.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_snackbar_in.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim/design_snackbar_in.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_fade_out.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_fade_out.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_snackbar_out.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim/design_snackbar_out.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_fade_in.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_fade_in.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/24f43aaf5e1f2f478380b07e4fee59d2cfe2207b/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/carlosmo/.android/build-cache/ab8f6396a99840aa99211b48205d7f9a7230a4a7/output/res/anim/design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/anim/abc_slide_out_bottom.xml"
     }
 ]

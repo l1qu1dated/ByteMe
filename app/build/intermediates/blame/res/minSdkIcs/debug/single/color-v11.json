@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/carlosmo/Repository/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/carlosmo/.android/build-cache/91017c3f0301047a1171efca85a9d2f7fbf62a08/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/res/merged/minSdkIcs/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/naperkovskiy/.android/build-cache/dcf734b901dcfd70a3a3142f50bcf7bd940ac17a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]
