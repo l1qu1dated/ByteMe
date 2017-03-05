@@ -1,4 +1,0 @@
-#Sat Mar 04 19:20:36 EST 2017
-base.0=/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/5/slice_5
-renamed.0=classes.dex
-file.0=/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/5/slice_5/classes.dex

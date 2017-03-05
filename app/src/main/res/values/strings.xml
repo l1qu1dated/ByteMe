@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Firebase Authentication</string>
-    <string name="patient_screen_name">Patient Alert Screen</string>
 
     <string name="label_google_sign_in">Firebase + Google Sign In</string>
     <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+
 
 
     <string name="hint_user_id">User ID</string>
@@ -47,7 +47,6 @@
     <string name="invitation_deep_link">http://example.com/offer/five_dollar_offer</string>
     <string name="invitation_custom_image">https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</string>
     <string name="invitation_cta">Install!</string>
-    <string name="invite_menu_label">Invite</string>
 
     <string name="deep_link_fmt" formatted="false">Deep Link: %s</string>
     <string name="invitation_id_fmt" formatted="false">Invitation ID: %s</string>

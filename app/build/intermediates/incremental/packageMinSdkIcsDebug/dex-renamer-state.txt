@@ -1,7 +1,0 @@
-#Sat Mar 04 19:20:37 EST 2017
-base.0=/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/10000/instant-run_c9daf08c712dd506136b8a23c4a596cb9bdfe1a9
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/10000/instant-run-bootstrap_0567c83801a0d8d44b9c536f8b90de6ba9c9761e/classes.dex
-base.1=/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/10000/instant-run-bootstrap_0567c83801a0d8d44b9c536f8b90de6ba9c9761e
-file.0=/Users/naperkovskiy/Desktop/Hackathon/forked byte me/ByteMe/app/build/intermediates/transforms/dex/minSdkIcs/debug/folders/1000/10000/instant-run_c9daf08c712dd506136b8a23c4a596cb9bdfe1a9/classes.dex
