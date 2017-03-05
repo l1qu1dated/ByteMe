@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/carlosmo/Repository/ByteMe/app/src/main/jniLibs"/></dataSet><dataSet config="minSdkIcs"><source path="/Users/carlosmo/Repository/ByteMe/app/src/minSdkIcs/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/carlosmo/Repository/ByteMe/app/src/debug/jniLibs"/></dataSet><dataSet config="minSdkIcsDebug"><source path="/Users/carlosmo/Repository/ByteMe/app/src/minSdkIcsDebug/jniLibs"/></dataSet></merger>
